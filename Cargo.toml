@@ -1,0 +1,4 @@
+[dependencies]
+opencv = "0.76"
+rocket = "0.5"
+lazy_static = "1.4"
